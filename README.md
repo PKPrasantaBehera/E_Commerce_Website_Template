@@ -6,5 +6,5 @@ Free to use website template,created from scratch using HTML Css and a little Ja
 
 #### Live preview link: https://pkprasantabehera.github.io/E_Commerce_Website_Template/
 
-#### Lower part of main page
+#### Main Page 
 ![Preview image 1](images/E-Commerce-Template.png?raw=true "Main Page ")
